@@ -111,7 +111,7 @@ Berikut hasil programnya:
 
 - flowchart programnya adalah sebagai berikut:
 
-![Gambar 5](screenshot/flowchart_list_nilai_mahasiswa.png)
+![Gambar 5](ssan/flowchart.png)
 
 - Berikut gambar programnya:
 
