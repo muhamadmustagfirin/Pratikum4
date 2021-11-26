@@ -111,7 +111,7 @@ Berikut hasil programnya:
 
 - flowchart programnya adalah sebagai berikut:
 
-![Gambar 5](ssan/flowchart.png)
+![Gambar 5](ssan/Flowchart.png)
 
 - Berikut gambar programnya:
 
