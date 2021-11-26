@@ -55,14 +55,14 @@ print("merubah elemen ke 4 sampai elemen terakhir:", list)
 ```
 berikut hasil pemogramannya:
 
-![Gambar 2](screenshot/hasil_list1.PNG)
+![Gambar 2](ssan/Listhasil1.png)
 
 
 ### Latihan untuk menambahkan elemen dalam list:
 
 berikut gambar program nya:
 
-![Gambar 3](screenshot/list2.PNG)
+![Gambar 3](ssan/List2.png)
 
 ### tambah elemen list
 ```python
@@ -102,7 +102,7 @@ print("Gabungan list B dan A:", c)
 
 Berikut hasil programnya:
 
-![Gambar 4](screenshot/hasil_list2.PNG)
+![Gambar 4](ssan/Listhasil2.png)
 
 
 #Praktikum Labs 4
