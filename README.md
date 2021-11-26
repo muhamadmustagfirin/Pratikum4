@@ -105,7 +105,7 @@ Berikut hasil programnya:
 ![Gambar 4](ssan/Listhasil2.png)
 
 
-#Praktikum Labs 4
+#Praktikum 4
 
 ## Membuat list nilai Mahasiswa
 
@@ -115,7 +115,7 @@ Berikut hasil programnya:
 
 - Berikut gambar programnya:
 
-![Gambar 6](screenshot/List_Nilai_Mahasiswa1.PNG)
+![Gambar 6](ssan/ssan1.png)
 
 - Keterangan:
 ```python
@@ -178,6 +178,6 @@ for n in range(i):
 ```
 - sedangkan yang diatas adalah untuk menampilkan hasil dari list yang telah di inputkan, dengan menggunakan perulangan for n in range. dan berikut hasil dari code programnya:
 
-![Gambar 7](screenshot/List_Nilai_Mahasiswa.PNG)
+![Gambar 7](ssan/ssan2.png)
 
-## Sekian Praktikum Labs 4 ini
+## Sekian Praktikum 4 ini
