@@ -13,7 +13,7 @@ list=[]
 
 berikut penulisan dalam python:
 
-![Gambar 1](screenshot/list1.PNG)
+![Gambar 1](screenshot/list1.png)
 
 dengan keterangan:
 ```python
