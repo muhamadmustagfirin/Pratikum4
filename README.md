@@ -1,7 +1,4 @@
 # Pratikum4
-# Labspy04
-Labspy04 is a trial code for list in python
-
 
 ## Latihan 1
 
@@ -13,7 +10,7 @@ list=[]
 
 berikut penulisan dalam python:
 
-![Gambar 1](ssan/list1.png)
+![Gambar 1](ssan/List1.png)
 
 dengan keterangan:
 ```python
