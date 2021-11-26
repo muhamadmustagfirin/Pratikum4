@@ -102,7 +102,7 @@ print("Gabungan list B dan A:", c)
 
 Berikut hasil programnya:
 
-![Gambar 4](ssan/Listhasil2.png)
+![Gambar 4](ssan/Lishasil2.png)
 
 
 #Praktikum 4
@@ -111,7 +111,7 @@ Berikut hasil programnya:
 
 - flowchart programnya adalah sebagai berikut:
 
-![Gambar 5](ssan/Flowchart.png)
+![Gambar 5](ssan/Flowchart.jpg)
 
 - Berikut gambar programnya:
 
